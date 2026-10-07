@@ -61,9 +61,9 @@ export const services = [
   }
 ];
 export const menus = [
-  { path: '/brand/', label: '결담의 기준', english: 'OUR PHILOSOPHY', title: '수원눈썹문신 결담 브로우의 디자인 기준', lead: '당신의 얼굴을 먼저 읽습니다.', image: 'suwon-brow-studio-interior', description: '수원역 인근 결담 브로우의 눈썹 디자인 기준. 얼굴 비율, 기존 눈썹 결, 메이크업 취향과 잔흔 상태를 함께 살피는 상담을 안내합니다.' },
-  { path: '/design/', label: '눈썹 디자인', english: 'BROW COLLECTION', title: '수원눈썹문신 디자인 프로그램 | 결담 브로우', lead: '어울리는 방식은, 저마다 다르니까.', image: 'suwon-brow-design-consultation', description: '결담 브로우의 자연눈썹, 콤보눈썹, 남자눈썹, 파우더눈썹, 리터치와 잔흔 디자인 상담을 비교해보세요.' },
-  { path: '/gallery/', label: '디자인 갤러리', english: 'DESIGN GALLERY', title: '수원눈썹문신 디자인 갤러리 | 결담 브로우', lead: '취향을 발견하는 여섯 가지 표정.', image: 'suwon-combo-brow', description: '결담 브로우의 눈썹 디자인 예시 이미지. 결 중심의 자연스러운 디자인부터 부드러운 음영과 남자눈썹까지 원하는 분위기를 살펴보세요.' },
-  { path: '/guide/', label: '이용 가이드', english: 'YOUR FIRST VISIT', title: '수원눈썹문신 상담·이용 가이드 | 결담 브로우', lead: '처음이라면, 여기서 시작하세요.', image: 'suwon-brow-design-consultation', description: '수원눈썹문신 상담 전 준비사항과 디자인 상담 흐름, 회복 경과 확인 및 자주 묻는 질문을 안내합니다.' },
-  { path: '/contact/', label: '상담·오시는 길', english: 'VISIT GYEOLDAM', title: '수원역 눈썹문신 상담·오시는 길 | 결담 브로우', lead: '수원역 가까이, 당신의 다음 인상.', image: 'suwon-brow-studio-interior', description: '수원역 인근 결담 브로우 상담 안내. 전화 010-8142-1319로 원하는 눈썹 디자인과 방문 가능 일정을 문의하세요.' }
+  { path: '/brand/', label: '결담의 기준', english: 'OUR PHILOSOPHY', title: '수원눈썹문신 결담 브로우의 디자인 기준', lead: '당신의 얼굴을 먼저 읽습니다.', image: 'suwon-brow-brand-philosophy', imageAlt: '자연스러운 눈썹 결을 표현한 결담 브로우 디자인 기준 이미지', imageLabel: '본래의 결을 존중하는 디자인 기준', description: '수원역 인근 결담 브로우의 눈썹 디자인 기준. 얼굴 비율, 기존 눈썹 결, 메이크업 취향과 잔흔 상태를 함께 살피는 상담을 안내합니다.' },
+  { path: '/design/', label: '눈썹 디자인', english: 'BROW COLLECTION', title: '수원눈썹문신 디자인 프로그램 | 결담 브로우', lead: '어울리는 방식은, 저마다 다르니까.', image: 'suwon-brow-design-programs', imageAlt: '눈썹의 정돈된 형태와 균형을 보여주는 디자인 프로그램 이미지', imageLabel: '균형과 형태를 살피는 눈썹 디자인', description: '결담 브로우의 자연눈썹, 콤보눈썹, 남자눈썹, 파우더눈썹, 리터치와 잔흔 디자인 상담을 비교해보세요.' },
+  { path: '/gallery/', label: '디자인 갤러리', english: 'DESIGN GALLERY', title: '수원눈썹문신 디자인 갤러리 | 결담 브로우', lead: '취향을 발견하는 여섯 가지 표정.', image: 'suwon-brow-design-gallery', imageAlt: '눈썹 결과 부드러운 음영을 표현한 디자인 갤러리 대표 이미지', imageLabel: '취향을 찾는 눈썹 디자인 예시', description: '결담 브로우의 눈썹 디자인 예시 이미지. 결 중심의 자연스러운 디자인부터 부드러운 음영과 남자눈썹까지 원하는 분위기를 살펴보세요.' },
+  { path: '/guide/', label: '이용 가이드', english: 'YOUR FIRST VISIT', title: '수원눈썹문신 상담·이용 가이드 | 결담 브로우', lead: '처음이라면, 여기서 시작하세요.', image: 'suwon-brow-visit-guide', imageAlt: '눈썹 상담 전 준비를 위한 거울과 브로우 펜슬 이미지', imageLabel: '차분하게 준비하는 첫 디자인 상담', description: '수원눈썹문신 상담 전 준비사항과 디자인 상담 흐름, 회복 경과 확인 및 자주 묻는 질문을 안내합니다.' },
+  { path: '/contact/', label: '상담·오시는 길', english: 'VISIT GYEOLDAM', title: '수원역 눈썹문신 상담·오시는 길 | 결담 브로우', lead: '수원역 가까이, 당신의 다음 인상.', image: 'suwon-brow-contact-entrance', imageAlt: '결담 브로우가 지향하는 따뜻한 리셉션 공간 분위기 이미지', imageLabel: '편안한 방문을 위한 공간 분위기', description: '수원역 인근 결담 브로우 상담 안내. 전화 010-8142-1319로 원하는 눈썹 디자인과 방문 가능 일정을 문의하세요.' }
 ];

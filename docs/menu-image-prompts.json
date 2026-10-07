@@ -1,0 +1,52 @@
+[
+  {
+    "name": "suwon-brow-brand-philosophy",
+    "prompt": "Use case: photorealistic-natural. Asset type: luxury eyebrow studio brand philosophy website page. Generate ONE individual full-resolution square 1024x1024 luxury editorial beauty photograph. An elegant adult Korean woman about 36 with short black pixie hair, expressive natural fine eyebrows, ivory linen shirt, thoughtful calm three-quarter portrait showing both eyebrows. Mocha seamless studio background, soft directional window light, realistic pores and believable skin texture, subtle makeup, luxury chocolate/walnut/ivory photographic color mood. Distinctive mature face with graceful jawline, confident gentle expression. No collage, no text, no logo, no watermark, no actual clinic/location identification.",
+    "filename": "suwon-brow-brand-philosophy.jpg",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "verification": "Inspected with view_image; coherent photorealistic subject, luxury walnut/ivory mood, no visible text, logo or watermark; each page image distinct."
+  },
+  {
+    "name": "suwon-brow-design-programs",
+    "prompt": "Use case: photorealistic-natural. Asset type: luxury eyebrow studio design-program overview website page. Generate ONE individual full-resolution square 1024x1024 luxury editorial beauty photograph. A distinct adult Korean woman about 29 with high black ponytail, clean balanced defined eyebrows with individual fine hairs and subtly shaded tails. Three-quarter beauty portrait with both eyebrows clearly visible, poised direct gaze, light ivory sleeveless blouse, walnut brown studio backdrop. Soft directional window light, realistic skin pores, restrained elegant makeup, luxury chocolate/walnut/ivory photographic color mood. Unique angular oval face, different from short-pixie and wavy-haired subjects. No collage, no text, no logo, no watermark, no actual clinic/location identification.",
+    "filename": "suwon-brow-design-programs.jpg",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "verification": "Inspected with view_image; coherent photorealistic subject, luxury walnut/ivory mood, no visible text, logo or watermark; each page image distinct."
+  },
+  {
+    "name": "suwon-brow-design-gallery",
+    "prompt": "Use case: photorealistic-natural. Asset type: luxury eyebrow studio editorial design gallery intro website page. Generate ONE individual full-resolution square 1024x1024 luxury editorial face close-up photograph. A distinct adult Korean woman about 34 with soft shoulder-length wavy black hair, sculpted but natural eyebrows with delicate visible hairs. Creamy ivory seamless backdrop, face closeup showing both eyebrows, calm softly smiling expression, natural skin pores, restrained makeup, soft directional light, warm luxury chocolate/walnut/ivory photographic color mood. Distinct rounded cheekbones and gently curved jaw, clearly different from pixie-haired or ponytailed subjects. No collage, no text, no logo, no watermark, no actual clinic/location identification.",
+    "filename": "suwon-brow-design-gallery.jpg",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "verification": "Inspected with view_image; coherent photorealistic subject, luxury walnut/ivory mood, no visible text, logo or watermark; each page image distinct."
+  },
+  {
+    "name": "suwon-brow-visit-guide",
+    "prompt": "Use case: photorealistic-natural. Asset type: luxury eyebrow studio visit-guide website page. Generate ONE individual full-resolution square 1024x1024 refined beauty consultation preparation flatlay on a walnut and ivory desk. One round brass-framed handheld mirror, blank cream notepad without writing or printed lines, clean brown brow pencil, neat stack of cotton pads, and folded clean ivory towel. Carefully arranged with breathing room, overhead editorial still life, soft natural window light, realistic walnut grain and linen texture, warm luxury chocolate/walnut/ivory photographic mood. Nonmedical preparation scene, no needles or medical instruments. No people, no collage, no text, no brands, no logo, no watermark, no actual clinic/location identification.",
+    "filename": "suwon-brow-visit-guide.jpg",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "verification": "Inspected with view_image; coherent photorealistic subject, luxury walnut/ivory mood, no visible text, logo or watermark; each page image distinct."
+  },
+  {
+    "name": "suwon-brow-contact-entrance",
+    "prompt": "Use case: photorealistic-natural. Asset type: luxury eyebrow studio contact and directions page atmosphere example. Generate ONE individual full-resolution square 1024x1024 realistic editorial photograph of an elegant beauty studio reception entrance. Ivory reception counter, rich walnut wall paneling, warm brass table lamp, cream upholstered seating and subtle natural soft daylight. Inviting minimalist warm interior, accurate architectural proportions, realistic materials, luxury chocolate/walnut/ivory photographic color mood. Reception and entrance atmosphere, not a treatment room: no reclining treatment chair. No people, no readable signage, no text, no brands, no logo, no watermark, no collage, no exact actual clinic/location identification.",
+    "filename": "suwon-brow-contact-entrance.jpg",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "verification": "Inspected with view_image; coherent photorealistic subject, luxury walnut/ivory mood, no visible text, logo or watermark; each page image distinct."
+  }
+]
