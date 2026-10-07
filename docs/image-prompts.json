@@ -1,0 +1,92 @@
+[
+  {
+    "name": "suwon-gyeoldam-brow-hero",
+    "prompt": "Use case: photorealistic-natural. Asset type: luxury eyebrow beauty website hero. Create a single landscape 1536x1024, 3:2 editorial beauty photograph of an adult Korean woman approximately 28, shoulder-up portrait, natural elegant eyebrows with individual fine hairs visible. Ivory blouse, sleek black hair gently tucked behind ear, calm direct gaze, soft directional window light, deep chocolate brown seamless studio background. Luxury fashion beauty photography with realistic skin texture, tasteful restrained makeup, earthy walnut and cream color mood. No text, no logo, no watermark, no collage, no actual clinic or location identification.",
+    "filename": "suwon-gyeoldam-brow-hero.jpg",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "verification": "Visually inspected with view_image; photorealistic, no visible text, logo or watermark; requested subject and consistent walnut/cream photographic mood."
+  },
+  {
+    "name": "suwon-natural-brow",
+    "prompt": "Use case: photorealistic-natural. Asset type: eyebrow service card. Create one square 1024x1024 editorial beauty photograph of an adult Korean woman approximately 26 with a distinctive oval face, dark chin-length bob, airy fine natural eyebrow hair clearly visible. Close beauty portrait with honest skin pores, restrained makeup, neutral relaxed expression. Espresso brown backdrop, soft window light, luxury earthy walnut and cream photographic mood. No text, no logo, no watermark, no collage, no actual clinic or location identification.",
+    "filename": "suwon-natural-brow.jpg",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "verification": "Visually inspected with view_image; photorealistic, no visible text, logo or watermark; requested subject and consistent walnut/cream photographic mood."
+  },
+  {
+    "name": "suwon-combo-brow",
+    "prompt": "Use case: photorealistic-natural. Asset type: eyebrow service card. Create one square 1024x1024 editorial beauty photograph of a distinctive adult Korean woman approximately 32, broad cheekbones and long black hair swept back, medium close portrait. Balanced hairlike brows with softly shaded tails, natural texture and restrained makeup. Muted mocha backdrop, soft directional window light, luxury earthy walnut and cream photographic mood. Different subject from the usual oval-faced bob-haired beauty model. No text, no logo, no watermark, no collage, no actual clinic or location identification.",
+    "filename": "suwon-combo-brow.jpg",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "verification": "Visually inspected with view_image; photorealistic, no visible text, logo or watermark; requested subject and consistent walnut/cream photographic mood."
+  },
+  {
+    "name": "suwon-men-brow",
+    "prompt": "Use case: photorealistic-natural. Asset type: eyebrow service card. Create one square 1024x1024 luxury editorial portrait of an adult Korean man approximately 30 with a distinctive angular face, short neatly styled black hair, restrained groomed straight eyebrows with fine hair texture. Cream shirt, chocolate backdrop, honest skin texture, calm expression, soft directional window light, premium earthy walnut and cream photographic mood. No text, no logo, no watermark, no collage, no actual clinic or location identification.",
+    "filename": "suwon-men-brow.jpg",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "verification": "Visually inspected with view_image; photorealistic, no visible text, logo or watermark; requested subject and consistent walnut/cream photographic mood."
+  },
+  {
+    "name": "suwon-powder-brow",
+    "prompt": "Use case: photorealistic-natural. Asset type: eyebrow service card. Create one square 1024x1024 luxury editorial close portrait of a distinctive adult Korean woman approximately 35 with a round face and softly curled shoulder-length black hair. Soft powdered eyebrows with smooth graduated fronts and subtle velvety shaded tails. Natural believable skin texture, understated makeup, dark brown backdrop, soft directional window light, premium earthy walnut and cream photographic mood. Clearly distinct face, hairstyle and pose from straight-haired beauty portraits. No text, no logo, no watermark, no collage, no actual clinic or location identification.",
+    "filename": "suwon-powder-brow.jpg",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "verification": "Visually inspected with view_image; photorealistic, no visible text, logo or watermark; requested subject and consistent walnut/cream photographic mood."
+  },
+  {
+    "name": "suwon-brow-retouch",
+    "prompt": "Use case: photorealistic-natural. Asset type: eyebrow service design illustration photo, not a real client result. Create one square 1024x1024 luxury editorial angled close portrait of a distinctive adult Korean woman approximately 29 with elongated narrow face, delicate features, black hair in a low bun. Light natural brows with a clean balanced outline, individual hairs visible, natural believable skin pores and understated makeup. Warm gray backdrop, soft directional window light, premium earthy walnut and cream photographic mood. No before-after comparison. No text, no logo, no watermark, no collage, no actual clinic or location identification.",
+    "filename": "suwon-brow-retouch.jpg",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "verification": "Visually inspected with view_image; photorealistic, no visible text, logo or watermark; requested subject and consistent walnut/cream photographic mood."
+  },
+  {
+    "name": "suwon-brow-residual-consultation",
+    "prompt": "Use case: photorealistic-natural. Asset type: eyebrow consultation service design illustration photo. Create one square 1024x1024 luxury editorial close-up of an adult Korean woman's brow and eye, approximately 38, distinct mature almond eye shape and visible natural skin texture. Soft very faint old brown tint beneath a light sparse natural eyebrow, neutral expression, healthy normal skin. Frame eyebrow clearly with eye and upper cheek, warm brown neutral background, soft window light, tasteful premium earthy photographic mood. No red inflammation, no instruments touching skin, no needle, no procedure, no before-after. No text, no logo, no watermark, no collage, no actual clinic or location identification.",
+    "filename": "suwon-brow-residual-consultation.jpg",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "verification": "Visually inspected with view_image; photorealistic, no visible text, logo or watermark; requested subject and consistent walnut/cream photographic mood."
+  },
+  {
+    "name": "suwon-brow-design-consultation",
+    "prompt": "Use case: photorealistic-natural. Asset type: eyebrow consultation website image. Create one square 1024x1024 luxury editorial photograph of a non-invasive eyebrow design consultation in a dark walnut and cream beauty studio. An adult Korean woman with dark hair swept back sits in a comfortable chair and gazes into a small handheld oval mirror. A stylist's anatomically accurate hand holds a clean brow design pencil near her eyebrow, hovering with no skin puncture. Realistic fingers and pencil grip, mirror at lower chest level clear of her face, quiet thoughtful expression, natural skin texture, soft natural light, warm brass details in blurred backdrop, premium editorial beauty photography. No needles, no invasive procedure, no red skin, no text, no logo, no watermark, no collage, no actual clinic or location identification.",
+    "filename": "suwon-brow-design-consultation.jpg",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "verification": "Visually inspected with view_image; photorealistic, no visible text, logo or watermark; requested subject and consistent walnut/cream photographic mood."
+  },
+  {
+    "name": "suwon-brow-studio-interior",
+    "prompt": "Use case: photorealistic-natural. Asset type: beauty studio website image. Create one square 1024x1024 luxury editorial interior photograph of a peaceful minimalist eyebrow beauty studio. Rich dark walnut wall paneling, one comfortable ivory reclining beauty chair, warm brass details, clean minimalist mirror, softly lit cream walls, restrained elegant furnishing. Natural soft daylight and warm ambient light, sophisticated realistic materials and inviting calm atmosphere, premium earthy walnut and cream photographic mood. No people, no signs, no text, no logo, no watermark, no collage, no actual clinic or location identification.",
+    "filename": "suwon-brow-studio-interior.jpg",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "verification": "Visually inspected with view_image; photorealistic, no visible text, logo or watermark; requested subject and consistent walnut/cream photographic mood."
+  }
+]

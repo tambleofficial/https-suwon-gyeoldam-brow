@@ -1,0 +1,12 @@
+{
+  "name": "suwon-gyeoldam-brow",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/generate.mjs",
+    "refresh": "node scripts/generate.mjs --root",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

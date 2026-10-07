@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://suwon-gyeoldam-brow.pages.dev/sitemap.xml
